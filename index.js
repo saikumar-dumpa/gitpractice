@@ -1,2 +1,2 @@
-console.log("version 2")
+console.log("version 3")
 console.log("src/file.js")
